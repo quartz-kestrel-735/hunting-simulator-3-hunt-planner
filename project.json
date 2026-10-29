@@ -1,0 +1,22 @@
+{
+  "name": "hunting-simulator-3-hunt-planner",
+  "displayName": "Hunting Simulator 3 Hunt Planner",
+  "programType": "hunt-planner",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Equipment groups",
+    "Route notes",
+    "Session records"
+  ],
+  "topics": [
+    "hunting-simulator-3-hunt-planner",
+    "hunting-simulator-3-tools",
+    "hunting-simulator-3-menu",
+    "hunting-simulator-3-settings",
+    "hunting-simulator-3-configs",
+    "hunting-simulator-3-equipment-groups",
+    "hunting-simulator-3-route-notes"
+  ]
+}
